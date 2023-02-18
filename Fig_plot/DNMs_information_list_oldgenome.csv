@@ -1,0 +1,245 @@
+﻿sort,Family,chromosome,position,Ref,Alt,Type,type2,type3,mother,father,offspring,Sex (male:1),source,Source,before site,after site,CpGsite,MaternalAge,PaternalAge,chr_size
+1,family1,chr1,75474242,T,C,T->C,A->G,"A->G
+(T->C)",F07051,F07052,F07055,1,from F07051,maternal,G,C,NA,1138,1086,118548696
+10,family1,chr1,47649671,C,G,C->G,C->G,"C->G
+(G->C)",F07051,F07052,F07056,1,from F07051,maternal,G,C,NA,1158,1106,
+15,family1,chr1,32004755,G,C,G->C,C->G,"C->G
+(G->C)",F07051,F07052,F08856,0,from F07052,paternal,G,A,NA,1159,1107,
+23,family2,chr1,91182816,T,A,T->A,A->T,"A->T
+(T->A)",F07051,F07054,F07063,0,from F07051,maternal,C,T,NA,1208,1590,
+32,family2,chr1,89293021,C,G,C->G,C->G,"C->G
+(G->C)",F07051,F07054,F07065,1,unknown,unknown,T,T,NA,1249,1631,
+50,family3,chr1,25813667,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F07068,0,from F07052,paternal,A,T,NA,959,1182,
+51,family3,chr1,29920612,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F07068,0,unknown,unknown,A,T,NA,959,1182,
+61,family3,chr1,32770929,G,T,G->T,C->A,"C->A
+(G->T)",F07053,F07052,F07070,0,unknown,unknown,T,G,NA,975,1198,
+62,family3,chr1,78713162,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F07070,0,from F07052,paternal,G,T,NA,975,1198,
+75,family3,chr1,22015465,A,G,A->G,A->G,"A->G
+(T->C)",F07053,F07052,F08859,1,unknown,unknown,A,C,NA,936,1159,
+82,family4,chr1,114618519,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07059,1,from F07054,paternal,T,C,NA,867,1524,
+83,family4,chr1,97073577,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07054,F07059,1,unknown,unknown,C,T,CpG,867,1524,
+92,family4,chr1,101670954,C,A,C->A,C->A,"C->A
+(G->T)",F07053,F07054,F07060,0,from F07053,maternal,T,A,NA,868,1525,
+93,family4,chr1,23283477,A,G,A->G,A->G,"A->G
+(T->C)",F07053,F07054,F07060,0,from F07054,paternal,C,A,NA,868,1525,
+94,family4,chr1,6376625,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07060,0,from F07053,maternal,T,G,CpG,868,1525,
+103,family4,chr1,22725362,T,A,T->A,A->T,"A->T
+(T->A)",F07053,F07054,F07062,0,from F07054,paternal,T,C,NA,886,1543,
+104,family4,chr1,59788943,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07062,0,unknown,unknown,T,C,NA,886,1543,
+84,family4,chr10,1732895,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07054,F07059,1,from F07054,paternal,C,G,CpG,867,1524,20806668
+105,family4,chr10,10131217,T,C,T->C,A->G,"A->G
+(T->C)",F07053,F07054,F07062,0,from F07054,paternal,A,G,NA,886,1543,
+121,family2,chr10,15359559,G,T,G->T,C->A,"C->A
+(G->T)",F07051,F07054,F07064,0,from F07054,paternal,T,T,NA,1232,1614,
+76,family3,Chr10_random_046,10559,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F08859,1,from F07052,paternal,T,G,NA,936,1159,19765
+33,family2,chr11,3391745,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07054,F07065,1,unknown,unknown,T,T,NA,1249,1631,21403021
+52,family3,chr11,4812850,T,C,T->C,A->G,"A->G
+(T->C)",F07053,F07052,F07068,0,from F07052,paternal,A,C,NA,959,1182,
+2,family1,chr12,9288366,G,T,G->T,C->A,"C->A
+(G->T)",F07051,F07052,F07055,1,from F07052,paternal,G,A,NA,1138,1086,21576510
+17,family1,chr12,16148389,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07052,F08858,1,from F07052,paternal,T,G,NA,1160,1108,
+53,family3,chr12,13419656,G,T,G->T,C->A,"C->A
+(G->T)",F07053,F07052,F07068,0,from F07053,maternal,T,G,NA,959,1182,
+85,family4,chr12,16654033,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07059,1,from F07054,paternal,G,C,NA,867,1524,
+95,family4,chr12,16977736,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07054,F07060,0,from F07054,paternal,G,G,NA,868,1525,
+113,family4,chr12,3350391,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F08857,1,from F07054,paternal,T,G,CpG,884,1541,
+34,family2,chr13,15685427,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07065,1,unknown,unknown,A,T,NA,1249,1631,16962381
+120,family2,Chr13_random_007,9341,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07054,F07063,0,unknown,unknown,T,T,NA,1208,1590,30253
+58,family3,chr14,15078858,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F07069,0,from F07052,paternal,G,T,NA,972,1195,16419078
+11,family1,chr15,11043641,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07052,F07056,1,from F07052,paternal,A,G,CpG,1158,1106,14428146
+35,family2,chr15,6444458,T,C,T->C,A->G,"A->G
+(T->C)",F07051,F07054,F07065,1,from F07054,paternal,T,A,NA,1249,1631,
+36,family2,chr15,897251,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07065,1,from F07054,paternal,G,A,NA,1249,1631,
+43,family2,chr15,5431946,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07066,0,unknown,unknown,A,A,NA,1231,1613,
+44,family2,chr15,6807481,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07054,F07066,0,from F07054,paternal,C,G,CpG,1231,1613,
+106,family4,chr19,4580644,T,C,T->C,A->G,"A->G
+(T->C)",F07053,F07054,F07062,0,from F07054,paternal,C,C,NA,886,1543,11587733
+37,family2,chr1A,55948772,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07065,1,from F07051,maternal,G,G,NA,1249,1631,73657157
+38,family2,chr1A,63658486,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07065,1,unknown,unknown,T,C,NA,1249,1631,
+54,family3,chr1A,18077023,C,G,C->G,C->G,"C->G
+(G->C)",F07053,F07052,F07068,0,unknown,unknown,T,C,NA,959,1182,
+55,family3,chr1A,23654632,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F07068,0,from F07052,paternal,C,T,NA,959,1182,
+63,family3,chr1A,52245947,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F07070,0,from F07053,maternal,C,A,CpG,975,1198,
+96,family4,chr1A,2675268,T,C,T->C,A->G,"A->G
+(T->C)",F07053,F07054,F07060,0,from F07054,paternal,T,T,NA,868,1525,
+107,family4,chr1A,36941058,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07062,0,from F07054,paternal,A,G,CpG,886,1543,
+114,family4,chr1A,25287066,T,A,T->A,A->T,"A->T
+(T->A)",F07053,F07054,F08857,1,from F07054,paternal,T,C,NA,884,1541,
+122,family2,chr1A,65802398,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07064,0,from F07054,paternal,A,T,NA,1232,1614,
+18,family1,chr2,108182305,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07052,F08858,1,unknown,unknown,C,G,CpG,1160,1108,156412533
+19,family1,chr2,34395792,G,T,G->T,C->A,"C->A
+(G->T)",F07051,F07052,F08858,1,from F07052,paternal,G,T,NA,1160,1108,
+24,family2,chr2,103883567,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07063,0,from F07054,paternal,A,G,NA,1208,1590,
+56,family3,chr2,71278629,C,A,C->A,C->A,"C->A
+(G->T)",F07053,F07052,F07068,0,from F07053,maternal,G,T,NA,959,1182,
+64,family3,chr2,147638612,A,G,A->G,A->G,"A->G
+(T->C)",F07053,F07052,F07070,0,from F07052,paternal,T,T,NA,975,1198,
+97,family4,chr2,83185525,A,G,A->G,A->G,"A->G
+(T->C)",F07053,F07054,F07060,0,unknown,unknown,G,T,NA,868,1525,
+108,family4,chr2,23375297,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07062,0,from F07054,paternal,G,G,CpG,886,1543,
+109,family4,chr2,97762294,A,G,A->G,A->G,"A->G
+(T->C)",F07053,F07054,F07062,0,from F07053,maternal,G,T,NA,886,1543,
+119,family2,chr2,104918047,T,C,T->C,A->G,"A->G
+(T->C)",F07051,F07054,F07065,1,from F07054,paternal,A,C,NA,1249,1631,
+45,family2,chr20,6386941,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07054,F07066,0,from F07054,paternal,T,C,NA,1231,1613,15652063
+115,family4,chr20,2691159,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07054,F08857,1,unknown,unknown,T,A,NA,884,1541,
+16,family1,Chr22_random_017,20715,T,C,T->C,A->G,"A->G
+(T->C)",F07051,F07052,F08856,0,from F07052,paternal,T,C,NA,1159,1107,38477
+59,family3,chr23,4833706,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F07069,0,from F07052,paternal,C,A,NA,972,1195,6196912
+86,family4,chr28,886921,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07054,F07059,1,from F07053,maternal,T,C,NA,867,1524,4963201
+117,family2,chr28,483242,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07064,0,from F07054,paternal,T,A,NA,1232,1614,
+3,family1,chr3,34444253,A,C,A->C,A->C,"A->C
+(T->G)",F07051,F07052,F07055,1,unknown,unknown,C,T,NA,1138,1086,112617285
+4,family1,chr3,50948460,T,C,T->C,A->G,"A->G
+(T->C)",F07051,F07052,F07055,1,unknown,unknown,A,G,NA,1138,1086,
+20,family1,chr3,63254668,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07052,F08858,1,unknown,unknown,G,T,NA,1160,1108,
+25,family2,chr3,36880862,A,G,A->G,A->G,"A->G
+(T->C)",F07051,F07054,F07063,0,unknown,unknown,C,G,NA,1208,1590,
+26,family2,chr3,95610903,T,A,T->A,A->T,"A->T
+(T->A)",F07051,F07054,F07063,0,from F07054,paternal,A,A,NA,1208,1590,
+46,family2,chr3,30038437,A,C,A->C,A->C,"A->C
+(T->G)",F07051,F07054,F07066,0,unknown,unknown,A,A,NA,1231,1613,
+47,family2,chr3,53989118,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07066,0,from F07054,paternal,G,C,NA,1231,1613,
+60,family3,chr3,80800161,A,C,A->C,A->C,"A->C
+(T->G)",F07053,F07052,F07069,0,from F07053,maternal,A,G,NA,972,1195,
+65,family3,chr3,22257199,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F07070,0,from F07052,paternal,C,A,CpG,975,1198,
+66,family3,chr3,25601727,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F07070,0,from F07052,paternal,T,A,NA,975,1198,
+67,family3,chr3,35150114,A,G,A->G,A->G,"A->G
+(T->C)",F07053,F07052,F07070,0,from F07052,paternal,C,A,NA,975,1198,
+68,family3,chr3,42398471,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F07070,0,from F07052,paternal,T,A,NA,975,1198,
+69,family3,chr3,53320865,G,T,G->T,C->A,"C->A
+(G->T)",F07053,F07052,F07070,0,unknown,unknown,T,A,NA,975,1198,
+77,family3,chr3,56500580,A,G,A->G,A->G,"A->G
+(T->C)",F07053,F07052,F08859,1,unknown,unknown,G,C,NA,936,1159,
+87,family4,chr3,75515775,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07059,1,from F07053,maternal,C,G,CpG,867,1524,
+98,family4,chr3,12961511,A,G,A->G,A->G,"A->G
+(T->C)",F07053,F07054,F07060,0,from F07054,paternal,G,T,NA,868,1525,
+99,family4,chr3,98295499,C,A,C->A,C->A,"C->A
+(G->T)",F07053,F07054,F07060,0,from F07053,maternal,C,A,NA,868,1525,
+110,family4,chr3,107962788,T,C,T->C,A->G,"A->G
+(T->C)",F07053,F07054,F07062,0,from F07054,paternal,A,G,NA,886,1543,
+111,family4,chr3,47594297,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07062,0,from F07054,paternal,T,T,NA,886,1543,
+118,family2,chr3,74335819,A,C,A->C,A->C,"A->C
+(T->G)",F07051,F07054,F07064,0,unknown,unknown,A,G,NA,1232,1614,
+5,family1,chr4,21634263,T,C,T->C,A->G,"A->G
+(T->C)",F07051,F07052,F07055,1,unknown,unknown,C,C,NA,1138,1086,69780378
+6,family1,chr4,22635662,C,G,C->G,C->G,"C->G
+(G->C)",F07051,F07052,F07055,1,from F07051,maternal,A,A,NA,1138,1086,
+12,family1,chr4,35064410,A,G,A->G,A->G,"A->G
+(T->C)",F07051,F07052,F07056,1,from F07052,paternal,A,A,NA,1158,1106,
+27,family2,chr4,15161482,G,C,G->C,C->G,"C->G
+(G->C)",F07051,F07054,F07063,0,unknown,unknown,G,C,NA,1208,1590,
+28,family2,chr4,30817968,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07063,0,unknown,unknown,T,T,NA,1208,1590,
+39,family2,chr4,53486848,A,C,A->C,A->C,"A->C
+(T->G)",F07051,F07054,F07065,1,from F07054,paternal,G,G,NA,1249,1631,
+40,family2,chr4,61205658,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07065,1,from F07054,paternal,A,A,NA,1249,1631,
+41,family2,chr4,7431997,T,C,T->C,A->G,"A->G
+(T->C)",F07051,F07054,F07065,1,unknown,unknown,G,T,NA,1249,1631,
+7,family1,chr5,42500129,A,C,A->C,A->C,"A->C
+(T->G)",F07051,F07052,F07055,1,from F07051,maternal,G,A,NA,1138,1086,62374962
+42,family2,chr5,21761314,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07054,F07065,1,from F07054,paternal,G,G,CpG,1249,1631,
+70,family3,chr5,2454120,A,G,A->G,A->G,"A->G
+(T->C)",F07053,F07052,F07070,0,from F07052,paternal,A,T,NA,975,1198,
+71,family3,chr5,26105148,C,A,C->A,C->A,"C->A
+(G->T)",F07053,F07052,F07070,0,from F07052,paternal,T,C,NA,975,1198,
+72,family3,chr5,31556339,C,G,C->G,C->G,"C->G
+(G->C)",F07053,F07052,F07070,0,from F07053,maternal,A,A,NA,975,1198,
+78,family3,chr5,22434767,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F08859,1,from F07052,paternal,A,C,NA,936,1159,
+79,family3,chr5,48187372,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F08859,1,from F07052,paternal,A,A,NA,936,1159,
+88,family4,chr5,39350831,T,C,T->C,A->G,"A->G
+(T->C)",F07053,F07054,F07059,1,from F07054,paternal,G,T,NA,867,1524,
+100,family4,chr5,40470638,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07054,F07060,0,from F07054,paternal,G,C,NA,868,1525,
+8,family1,chr6,12189802,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07052,F07055,1,from F07052,paternal,A,T,NA,1138,1086,36305782
+9,family1,chr6,4737383,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07052,F07055,1,from F07051,maternal,A,G,NA,1138,1086,
+21,family1,chr6,5470678,T,C,T->C,A->G,"A->G
+(T->C)",F07051,F07052,F08858,1,from F07051,maternal,T,G,NA,1160,1108,
+29,family2,chr6,15638497,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07054,F07063,0,from F07054,paternal,A,T,NA,1208,1590,
+30,family2,chr6,4315761,A,G,A->G,A->G,"A->G
+(T->C)",F07051,F07054,F07063,0,from F07051,maternal,G,A,NA,1208,1590,
+89,family4,chr6,12517741,C,A,C->A,C->A,"C->A
+(G->T)",F07053,F07054,F07059,1,from F07053,maternal,T,T,NA,867,1524,
+90,family4,chr6,28773625,G,C,G->C,C->G,"C->G
+(G->C)",F07053,F07054,F07059,1,from F07053,maternal,T,T,NA,867,1524,
+73,family3,chr7,10542648,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F07070,0,from F07052,paternal,C,G,CpG,975,1198,39844632
+80,family3,chr7,29745954,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F08859,1,from F07052,paternal,A,A,NA,936,1159,
+116,family4,chr7,14430504,T,G,T->G,A->C,"A->C
+(T->G)",F07053,F07054,F08857,1,from F07054,paternal,G,T,NA,884,1541,
+13,family1,chr8,820779,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07052,F07056,1,from F07052,paternal,A,A,NA,1158,1106,27993427
+57,family3,chr8,27095930,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F07068,0,from F07052,paternal,C,C,NA,959,1182,
+112,family4,chr8,6536437,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07054,F07062,0,unknown,unknown,T,T,NA,886,1543,
+74,family3,Chr8_random_010,1917035,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F07070,0,unknown,unknown,C,A,NA,975,1198,3401156
+48,family2,Chr8_random_011,969986,A,G,A->G,A->G,"A->G
+(T->C)",F07051,F07054,F07066,0,unknown,unknown,G,C,NA,1231,1613,1331693
+22,family1,chr9,23165537,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07052,F08858,1,from F07052,paternal,T,G,CpG,1160,1108,27241186
+101,family4,chr9,4446815,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07060,0,unknown,unknown,A,G,CpG,868,1525,
+14,family1,chrZ,49594972,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07052,F07056,1,from F07052,paternal,T,C,NA,1158,1106,72861351
+31,family2,chrZ,40728419,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07054,F07064,0,from F07054,paternal,T,G,CpG,1232,1614,
+49,family2,chrZ,46166607,T,C,T->C,A->G,"A->G
+(T->C)",F07051,F07054,F07066,0,from F07054,paternal,A,G,NA,1231,1613,
+81,family3,chrZ,62680640,G,C,G->C,C->G,"C->G
+(G->C)",F07053,F07052,F08859,1,from F07052,paternal,T,T,NA,936,1159,
+91,family4,chrZ,48247296,T,A,T->A,A->T,"A->T
+(T->A)",F07053,F07054,F07059,1,unknown,unknown,T,G,NA,867,1524,
+102,family4,chrZ,67363387,A,G,A->G,A->G,"A->G
+(T->C)",F07053,F07054,F07060,0,from F07054,paternal,A,G,NA,868,1525,

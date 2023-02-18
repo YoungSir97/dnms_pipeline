@@ -1,0 +1,279 @@
+﻿sort,Family,chromosome,position,Ref,Alt,Type,type2,type3,mother,father,offspring,Sex (male:1),source,Source,before site,after site,CpGsite,MaternalAge,PaternalAge,Region,chr_size
+1,family4,chr10,10100900,T,C,T->C,A->G,"A->G
+(T->C)",F07053,F07054,F07062,0,not determinable,unknown,A,G,NA,886,1543,genic/intron,20543327
+2,family4,chr10,1696467,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07054,F07059,1,from F07054,paternal,C,G,CpG,867,1524,genic/intron,
+3,family4,chr12,17390464,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07060,0,not determinable,unknown,T,C,NA,868,1525,intergene,20384687
+4,family4,chr12,4573274,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07054,F07059,1,not determinable,unknown,G,C,NA,867,1524,intergene,
+5,family4,chr1A,24996016,T,A,T->A,A->T,"A->T
+(T->A)",F07053,F07054,F08857,1,not determinable,unknown,T,C,NA,884,1541,intergene,71569005
+6,family4,chr1A,36232005,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07062,0,from F07054,paternal,A,G,CpG,886,1543,intergene,
+7,family4,chr1,19644100,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07059,1,not determinable,unknown,A,G,CpG,867,1524,intergene,114020016
+8,family4,chr1,55876920,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07054,F07062,0,not determinable,unknown,G,A,NA,886,1543,intergene,
+9,family4,chr1,91526863,A,T,A->T,A->T,"A->T
+(T->A)",F07053,F07054,F07062,0,from F07054,paternal,G,A,NA,886,1543,intergene,
+10,family4,chr20,13139918,T,C,T->C,A->G,"A->G
+(T->C)",F07053,F07054,F07062,0,from F07054,paternal,T,A,NA,886,1543,genic/intron,14749488
+11,family4,chr28,4681704,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07059,1,not determinable,unknown,G,A,NA,867,1524,intergene,5866305
+12,family4,chr2,13940197,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07060,0,not determinable,unknown,C,G,CpG,868,1525,genic/CDS,151653088
+13,family4,chr2,40270217,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07060,0,from F07053,maternal,T,A,NA,868,1525,intergene,
+14,family4,chr2,79660788,A,G,A->G,A->G,"A->G
+(T->C)",F07053,F07054,F07060,0,not determinable,unknown,G,T,NA,868,1525,intergene,
+15,family4,chr2,94035511,A,G,A->G,A->G,"A->G
+(T->C)",F07053,F07054,F07062,0,from F07053,maternal,G,T,NA,886,1543,intergene,
+16,family4,chr3,15873756,G,T,G->T,C->A,"C->A
+(G->T)",F07053,F07054,F07060,0,from F07053,maternal,T,G,NA,868,1525,intergene,112598992
+17,family4,chr3,66061667,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07054,F07062,0,from F07054,paternal,A,A,NA,886,1543,genic/intron,
+18,family4,chr5,41136843,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07054,F07060,0,from F07054,paternal,G,C,NA,868,1525,genic/intron,61663524
+19,family4,chr6,13270750,C,A,C->A,C->A,"C->A
+(G->T)",F07053,F07054,F07059,1,from F07053,maternal,T,T,NA,867,1524,genic/intron,35592820
+20,family4,chr6,28613668,G,C,G->C,C->G,"C->G
+(G->C)",F07053,F07054,F07059,1,from F07053,maternal,T,T,NA,867,1524,genic/intron,
+21,family4,chr7,13914538,T,G,T->G,A->C,"A->C
+(T->G)",F07053,F07054,F08857,1,from F07054,paternal,G,T,NA,884,1541,intergene,37979234
+22,family4,chr8,20328701,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07062,0,not determinable,unknown,A,A,NA,886,1543,intergene,31251066
+23,family4,chr9,23069328,A,G,A->G,A->G,"A->G
+(T->C)",F07053,F07054,F07060,0,from F07054,paternal,T,C,NA,868,1525,genic/intron,25529500
+24,family4,chr9,4068042,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07060,0,not determinable,unknown,A,G,CpG,868,1525,genic/intron,
+25,family4,chrZ,50890500,T,A,T->A,A->T,"A->T
+(T->A)",F07053,F07054,F07059,1,not determinable,unknown,T,G,NA,867,1524,intergene,75396176
+26,family3,chr11,5446653,A,G,A->G,A->G,"A->G
+(T->C)",F07053,F07052,F07068,0,from F07052,paternal,G,T,NA,959,1182,genic/intron,21108237
+27,family3,chr12,7650036,C,A,C->A,C->A,"C->A
+(G->T)",F07053,F07052,F07068,0,from F07053,maternal,C,A,NA,959,1182,intergene,
+28,family3,chr1A,18066219,C,G,C->G,C->G,"C->G
+(G->C)",F07053,F07052,F07068,0,not determinable,unknown,T,C,NA,959,1182,genic/CDS,
+29,family3,chr1A,23406546,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F07068,0,from F07052,paternal,C,T,NA,959,1182,intergene,
+30,family3,chr1,84585637,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F07068,0,not determinable,unknown,A,T,NA,959,1182,genic/intron,
+31,family3,chr1,88556952,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F07068,0,from F07052,paternal,A,T,NA,959,1182,genic/intron,
+32,family3,chr2,68112487,C,A,C->A,C->A,"C->A
+(G->T)",F07053,F07052,F07068,0,from F07053,maternal,G,T,NA,959,1182,genic/intron,
+33,family3,chr2,78137241,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F07068,0,not determinable,unknown,T,G,CpG,959,1182,intergene,
+34,family3,chr5,13935516,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F07068,0,not determinable,unknown,T,T,NA,959,1182,intergene,
+35,family3,chr5,61338134,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F07068,0,not determinable,unknown,C,A,CpG,959,1182,intergene,
+36,family3,chr6,20440304,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F07068,0,from F07052,paternal,A,A,NA,959,1182,genic/intron,
+37,family3,chr8,841222,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F07068,0,from F07052,paternal,G,G,NA,959,1182,genic/intron,
+38,family3,chr14,1332038,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F07069,0,from F07052,paternal,A,C,NA,972,1195,genic/intron,16340488
+39,family3,chr23,2674880,G,C,G->C,C->G,"C->G
+(G->C)",F07053,F07052,F07069,0,from F07052,paternal,A,G,NA,972,1195,genic/intron,6804446
+40,family3,chr3,33168250,T,G,T->G,A->C,"A->C
+(T->G)",F07053,F07052,F07069,0,from F07053,maternal,C,T,NA,972,1195,intergene,
+41,family3,chr1A,51027147,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F07070,0,from F07053,maternal,C,A,CpG,975,1198,intergene,
+42,family3,chr1,37334908,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F07070,0,from F07052,paternal,A,C,NA,975,1198,intergene,
+43,family3,chr1,81851786,C,A,C->A,C->A,"C->A
+(G->T)",F07053,F07052,F07070,0,not determinable,unknown,C,A,NA,975,1198,genic/intron,
+44,family3,chr2,100944396,T,A,T->A,A->T,"A->T
+(T->A)",F07053,F07052,F07070,0,from F07052,paternal,A,A,NA,975,1198,intergene,
+45,family3,chr2,141923089,A,G,A->G,A->G,"A->G
+(T->C)",F07053,F07052,F07070,0,from F07052,paternal,T,T,NA,975,1198,intergene,
+46,family3,chr3,60449821,C,A,C->A,C->A,"C->A
+(G->T)",F07053,F07052,F07070,0,not determinable,unknown,T,A,NA,975,1198,intergene,
+47,family3,chr3,71222090,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F07070,0,from F07052,paternal,T,A,NA,975,1198,genic/intron,
+48,family3,chr3,77847267,A,G,A->G,A->G,"A->G
+(T->C)",F07053,F07052,F07070,0,from F07052,paternal,C,A,NA,975,1198,intergene,
+49,family3,chr3,88045709,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F07070,0,from F07052,paternal,T,A,NA,975,1198,intergene,
+50,family3,chr3,91342531,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F07070,0,from F07052,paternal,T,G,CpG,975,1198,genic/intron,
+51,family3,chr5,2469804,A,G,A->G,A->G,"A->G
+(T->C)",F07053,F07052,F07070,0,from F07052,paternal,A,T,NA,975,1198,intergene,
+52,family3,chr5,27161369,C,A,C->A,C->A,"C->A
+(G->T)",F07053,F07052,F07070,0,from F07052,paternal,T,C,NA,975,1198,genic/intron,
+53,family3,chr5,32528061,C,G,C->G,C->G,"C->G
+(G->C)",F07053,F07052,F07070,0,from F07053,maternal,A,A,NA,975,1198,genic/intron,
+54,family3,chr8,29130692,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F07070,0,not determinable,unknown,T,G,NA,975,1198,intergene,
+55,family3,chr10,19361181,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F08859,1,from F07052,paternal,T,G,NA,936,1159,genic/intron,
+56,family3,chr1,92222966,T,C,T->C,A->G,"A->G
+(T->C)",F07053,F07052,F08859,1,not determinable,unknown,G,T,NA,936,1159,genic/intron,
+57,family3,chr3,57341473,T,C,T->C,A->G,"A->G
+(T->C)",F07053,F07052,F08859,1,from F07052,paternal,G,C,NA,936,1159,genic/CDS,
+58,family3,chr5,23662893,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F08859,1,not determinable,unknown,A,C,NA,936,1159,intergene,
+59,family3,chr5,48468827,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F08859,1,from F07052,paternal,A,A,NA,936,1159,intergene,
+60,family3,chr7,28516420,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F08859,1,from F07052,paternal,A,A,NA,936,1159,genic/intron,
+61,family1,chr22,1323735,A,G,A->G,A->G,"A->G
+(T->C)",F07051,F07052,F08856,0,from F07052,paternal,G,A,NA,1159,1107,genic/intron,4608043
+62,family1,chr3,50638146,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07052,F08858,1,not determinable,unknown,A,C,NA,1160,1108,intergene,
+63,family1,chr3,62744315,A,G,A->G,A->G,"A->G
+(T->C)",F07051,F07052,F07055,1,from F07051,maternal,C,T,NA,1138,1086,genic/intron,
+64,family1,chr4,47192499,G,C,G->C,C->G,"C->G
+(G->C)",F07051,F07052,F07055,1,from F07051,maternal,T,T,NA,1138,1086,intergene,70982421
+65,family1,chr5,43110390,A,C,A->C,A->C,"A->C
+(T->G)",F07051,F07052,F07055,1,from F07051,maternal,G,A,NA,1138,1086,intergene,
+66,family1,chr6,12961692,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07052,F07055,1,from F07052,paternal,A,T,NA,1138,1086,intergene,
+67,family1,chr6,6016134,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07052,F07055,1,from F07051,maternal,A,G,NA,1138,1086,genic/intron,
+68,family1,chr6,6714679,T,C,T->C,A->G,"A->G
+(T->C)",F07051,F07052,F08858,1,from F07051,maternal,T,G,NA,1160,1108,intergene,
+69,family1,chr6,9805904,T,G,T->G,A->C,"A->C
+(T->G)",F07051,F07052,F07056,1,from F07051,maternal,A,C,NA,1158,1106,intergene,
+70,family1,chr8,25771401,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07052,F07056,1,from F07052,paternal,T,T,NA,1158,1106,genic/intron,
+71,family1,chr9,21755892,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07052,F08858,1,from F07052,paternal,T,G,CpG,1160,1108,intergene,
+72,family1,chrZ,29483136,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07052,F07056,1,not determinable,unknown,C,T,CpG,1158,1106,genic/intron,
+73,family1,chrZ,52229292,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07052,F07056,1,from F07052,paternal,T,C,NA,1158,1106,genic/intron,
+74,family1,chr12,11568131,C,A,C->A,C->A,"C->A
+(G->T)",F07051,F07052,F07055,1,from F07052,paternal,T,C,NA,1138,1086,genic/CDS,
+75,family1,chr12,5050065,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07052,F08858,1,from F07052,paternal,C,A,NA,1160,1108,genic/intron,
+76,family1,chr1,40467383,A,G,A->G,A->G,"A->G
+(T->C)",F07051,F07052,F07055,1,from F07051,maternal,G,C,NA,1138,1086,genic/intron,
+77,family1,chr1,67410443,G,C,G->C,C->G,"C->G
+(G->C)",F07051,F07052,F07056,1,from F07051,maternal,G,C,NA,1158,1106,genic/intron,
+78,family1,chr1,82623484,C,G,C->G,C->G,"C->G
+(G->C)",F07051,F07052,F08856,0,from F07052,paternal,T,C,NA,1159,1107,genic/intron,
+79,family1,chr1,84941992,T,C,T->C,A->G,"A->G
+(T->C)",F07051,F07052,F07055,1,from F07052,paternal,T,T,NA,1138,1086,intergene,
+80,family1,chr2,104072151,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07052,F08858,1,not determinable,unknown,C,G,CpG,1160,1108,genic/intron,
+81,family1,chr2,4487436,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07052,F08858,1,from F07051,maternal,A,G,CpG,1160,1108,genic/intron,
+82,family1,chr2,53726552,G,T,G->T,C->A,"C->A
+(G->T)",F07051,F07052,F08858,1,from F07052,paternal,G,T,NA,1160,1108,intergene,
+83,family1,chr3,77147282,A,C,A->C,A->C,"A->C
+(T->G)",F07051,F07052,F07055,1,not determinable,unknown,C,T,NA,1138,1086,intergene,
+84,family1,chr4,35151481,T,C,T->C,A->G,"A->G
+(T->C)",F07051,F07052,F07056,1,from F07052,paternal,T,T,NA,1158,1106,intergene,
+85,family1,chr4,48075252,A,G,A->G,A->G,"A->G
+(T->C)",F07051,F07052,F07055,1,not determinable,unknown,G,G,NA,1138,1086,genic/intron,
+86,family2,chr25,2110609,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07063,0,from F07054,paternal,C,T,CpG,1208,1590,genic/CDS,2880192
+87,family2,chr2,99951847,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07063,0,from F07054,paternal,A,G,NA,1208,1590,intergene,
+88,family2,chr3,79559241,A,G,A->G,A->G,"A->G
+(T->C)",F07051,F07054,F07063,0,not determinable,unknown,C,G,NA,1208,1590,intergene,
+89,family2,chr10,15028630,G,T,G->T,C->A,"C->A
+(G->T)",F07051,F07054,F07064,0,from F07054,paternal,T,T,NA,1232,1614,genic/intron,
+90,family2,chr1A,36636524,A,G,A->G,A->G,"A->G
+(T->C)",F07051,F07054,F07064,0,from F07054,paternal,C,T,NA,1232,1614,intergene,
+91,family2,chr1A,64006825,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07064,0,from F07054,paternal,A,T,NA,1232,1614,genic/intron,
+92,family2,chr28,5103271,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07054,F07064,0,from F07054,paternal,T,A,NA,1232,1614,genic/intron,
+93,family2,chr3,39630218,T,G,T->G,A->C,"A->C
+(T->G)",F07051,F07054,F07064,0,not determinable,unknown,C,T,NA,1232,1614,intergene,
+94,family2,chr10,656109,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07054,F07065,1,from F07054,paternal,A,G,CpG,1249,1631,intergene,
+95,family2,chr11,6810333,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07065,1,from F07054,paternal,A,A,NA,1249,1631,intergene,
+96,family2,chr14,5640787,A,T,A->T,A->T,"A->T
+(T->A)",F07051,F07054,F07065,1,from F07054,paternal,A,A,NA,1249,1631,genic/intron,
+97,family2,chr15,7922615,A,G,A->G,A->G,"A->G
+(T->C)",F07051,F07054,F07065,1,from F07054,paternal,T,A,NA,1249,1631,intergene,13771869
+98,family2,chr1A,61996852,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07065,1,not determinable,unknown,T,C,NA,1249,1631,intergene,
+99,family2,chr1,27050442,G,C,G->C,C->G,"C->G
+(G->C)",F07051,F07054,F07065,1,from F07054,paternal,A,A,NA,1249,1631,genic/intron,
+100,family2,chr2,100946032,T,C,T->C,A->G,"A->G
+(T->C)",F07051,F07054,F07065,1,from F07054,paternal,A,C,NA,1249,1631,intergene,
+101,family2,chr4,17408083,T,G,T->G,A->C,"A->C
+(T->G)",F07051,F07054,F07065,1,from F07054,paternal,C,C,NA,1249,1631,intergene,
+102,family2,chr4,61526670,A,G,A->G,A->G,"A->G
+(T->C)",F07051,F07054,F07065,1,from F07054,paternal,A,C,NA,1249,1631,intergene,
+103,family2,chr7,6651637,T,C,T->C,A->G,"A->G
+(T->C)",F07051,F07054,F07065,1,from F07054,paternal,T,T,NA,1249,1631,intergene,
+104,family2,chr15,7587052,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07066,0,not determinable,unknown,C,G,CpG,1231,1613,genic/intron,
+105,family2,chr15,8856003,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07054,F07066,0,from F07054,paternal,T,T,NA,1231,1613,intergene,
+106,family2,chr20,5881315,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07054,F07066,0,from F07054,paternal,T,C,NA,1231,1613,intergene,
+107,family2,chr3,59786684,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07054,F07066,0,from F07054,paternal,G,C,NA,1231,1613,genic/intron,
+108,family2,chr3,83633108,T,G,T->G,A->C,"A->C
+(T->G)",F07051,F07054,F07066,0,not determinable,unknown,T,T,NA,1231,1613,intergene,
+109,family2,chr8,26806800,T,C,T->C,A->G,"A->G
+(T->C)",F07051,F07054,F07066,0,not determinable,unknown,G,C,NA,1231,1613,genic/intron,
+110,family2,chr13,1357407,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07063,0,not determinable,unknown,A,A,NA,1208,1590,intergene,18052104
+111,family2,chr1,25292182,A,T,A->T,A->T,"A->T
+(T->A)",F07051,F07054,F07063,0,from F07051,maternal,A,G,NA,1208,1590,intergene,
+112,family2,chr1,6183585,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07054,F07063,0,from F07054,paternal,T,G,CpG,1208,1590,genic/intron,
+113,family2,chr4,39324990,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07054,F07063,0,not determinable,unknown,A,A,NA,1208,1590,genic/intron,
+114,family2,chr4,54231642,C,G,C->G,C->G,"C->G
+(G->C)",F07051,F07054,F07063,0,not determinable,unknown,G,C,NA,1208,1590,genic/intron,
+115,family2,chr6,16291803,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07054,F07063,0,from F07054,paternal,A,T,NA,1208,1590,intergene,
+116,family2,chr19,5175334,T,C,T->C,A->G,"A->G
+(T->C)",F07051,F07054,F07064,0,from F07051,maternal,A,A,NA,1232,1614,genic/intron,8335140
+117,family3,chrZ,64879889,C,G,C->G,C->G,"C->G
+(G->C)",F07053,F07052,F08859,1,not determinable,unknown,A,A,NA,936,1159,genic/intron,
+118,family2,chrZ,43319737,C,T,C->T,C->T,"C->T
+(G->A)",F07051,F07054,F07064,0,from F07054,paternal,T,G,CpG,1232,1614,intergene,
+119,family2,chrZ,48763392,T,C,T->C,A->G,"A->G
+(T->C)",F07051,F07054,F07066,0,from F07054,paternal,A,G,NA,1231,1613,intergene,
+120,family4,chrZ,60279797,T,C,T->C,A->G,"A->G
+(T->C)",F07053,F07054,F07060,0,from F07054,paternal,C,T,NA,868,1525,genic/intron,
+121,family3,chrW,8245081,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F07068,0,from F07053,maternal,C,A,NA,959,1182,intergene,20846394
+122,family3,chr12,13017218,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F07068,0,not determinable,unknown,T,C,NA,959,1182,NA,
+123,family3,chr23,588670,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F07069,0,from F07052,paternal,C,A,NA,972,1195,NA,
+124,family3,chr5,61365504,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07052,F08859,1,from F07053,maternal,G,A,NA,936,1159,NA,
+125,family3,chr7,10265758,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07052,F07070,0,from F07052,paternal,C,G,CpG,975,1198,NA,
+126,family4,chr1,3436882,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07054,F07059,1,from F07054,paternal,G,A,NA,867,1524,NA,
+127,family4,chr3,38457515,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07054,F07059,1,from F07053,maternal,C,G,CpG,867,1524,NA,
+128,family4,chr5,40050436,T,C,T->C,A->G,"A->G
+(T->C)",F07053,F07054,F07059,1,from F07054,paternal,G,T,NA,867,1524,NA,
+129,family4,chr1A,3347491,T,C,T->C,A->G,"A->G
+(T->C)",F07053,F07054,F07060,0,from F07054,paternal,T,T,NA,868,1525,NA,
+130,family4,chr1,106816370,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07054,F07060,0,not determinable,unknown,C,A,CpG,868,1525,NA,
+131,family4,chr1,90978042,T,C,T->C,A->G,"A->G
+(T->C)",F07053,F07054,F07060,0,from F07054,paternal,T,G,NA,868,1525,NA,
+132,family4,chr3,100560882,T,C,T->C,A->G,"A->G
+(T->C)",F07053,F07054,F07060,0,from F07054,paternal,A,C,NA,868,1525,NA,
+133,family4,chr2,21940717,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07062,0,from F07054,paternal,G,G,CpG,886,1543,NA,
+134,family4,chr12,17243194,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07054,F08857,1,from F07054,paternal,C,A,CpG,884,1541,NA,
+135,family4,chr20,2557074,G,A,G->A,C->T,"C->T
+(G->A)",F07053,F07054,F08857,1,not determinable,unknown,T,A,NA,884,1541,NA,
+136,family4,chr12,4274545,C,T,C->T,C->T,"C->T
+(G->A)",F07053,F07054,F07060,0,from F07054,paternal,C,C,NA,868,1525,NA,
+137,family1,chr15,3396441,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07052,F07056,1,from F07052,paternal,C,T,CpG,1158,1106,NA,
+138,family2,chr1A,54533442,G,A,G->A,C->T,"C->T
+(G->A)",F07051,F07054,F07065,1,from F07051,maternal,G,G,NA,1249,1631,NA,
+139,family2,chr4,10017876,C,T`,C->T,C->T,"C->T
+(G->A)",F07051,F07054,F07065,1,from F07054,paternal,T,T,NA,1249,1631,NA,
